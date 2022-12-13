@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+ {
+  font-family: 'EB Garamond', serif;
+ }h1{
+     background-color: rgb(167, 250, 156);
+            font-size: 60px;
+            color:rgb(121, 13, 13);
+
+ }
+p{
+  background-color: blanchedalmond;
+            font-size: 46px;
+            color: rgb(41, 88, 90);
+            
+ }
+    
